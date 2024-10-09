@@ -5,8 +5,6 @@
 ## 1. Membuat dokumen HTML.
 - Gambar1
   ![img 1](Screenshot/1.png)
-- Gambar2
-  ![img 2](Screenshot/2.png)
 # 2. Membuat ordered list
 - Gambar1
   ![img 3](Screenshot/3.png)
@@ -27,6 +25,8 @@
   ![img 8](Screenshot/9.png)
 - Gambar2
   ![img 9](Screenshot/10.png)
+- Gambar Result
+  ![img 9](Screenshot/10.png)
 # 6. Mengatur Margin dan Padding
 - Gambar1
   ![img 10](Screenshot/9.png)
@@ -42,6 +42,7 @@
   ![img 14](Screenshot/9.png)
 - Gambar2
   ![img 15](Screenshot/10.png)
+  ![img 9](Screenshot/10.png)
 # 9. Menabahkan Style pada Form
 - Gambar1
   ![img 16](Screenshot/9.png)
