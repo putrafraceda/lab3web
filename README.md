@@ -42,6 +42,7 @@
   ![img 14](Screenshot/9.png)
 - Gambar2
   ![img 15](Screenshot/10.png)
+   Gambar
   ![img 9](Screenshot/10.png)
 # 9. Menabahkan Style pada Form
 - Gambar1
