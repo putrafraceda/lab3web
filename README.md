@@ -47,6 +47,3 @@
 # 9. Menabahkan Style pada Form
 - Gambar1
   ![img 16](Screenshot/18.png)
-- Gambar2
-  ![img 17](Screenshot/19.png)
- 
