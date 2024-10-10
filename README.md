@@ -9,7 +9,7 @@
 - Gambar1
   ![img 3](Screenshot/2.png)
 - Gambar2
-   ![img 3](Screenshot/3.png)
+  ![img 3](Screenshot/3.png)
 # 3. Membuat unorderd list
 - Gambar1
   ![img 4](Screenshot/4.png)
